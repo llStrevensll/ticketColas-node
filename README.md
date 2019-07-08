@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicación de colas, usando como ejemplo tickets para los turnos de espera en un banco
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Recuerdar reconstruir los módulos de node con el comando
 
 ```
 npm install
